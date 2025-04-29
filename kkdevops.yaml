@@ -2,4 +2,4 @@
 apiVersion: v50
 kind: Deployment
 metadata:
-spec:
+spec:2 replicas
