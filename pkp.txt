@@ -1,4 +1,7 @@
 
  echo 'Hello world'
  echo 'How are u'
+<<<<<<< Updated upstream
  echo 'My name is pathan yousuf khan'
+=======
+>>>>>>> Stashed changes
