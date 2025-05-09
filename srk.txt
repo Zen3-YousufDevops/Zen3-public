@@ -1,0 +1,5 @@
+ 
+
+ s1 is the text for the commit 1
+ s2 is the text for the commit 2
+
