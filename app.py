@@ -1,7 +1,8 @@
 
 
 
-print("Welcome to the app")
-print("Version 2.0")  # Updated version
+
+print("Welcome to the new app")  # Updated welcome message
+print("Version 1.1")
 
 
